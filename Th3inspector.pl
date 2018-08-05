@@ -121,7 +121,7 @@ sub banner {
     print color('bold green'),"V 1.9\n";
     print color('reset');
     print "   \\  \\  \\                         \033[0;31m[\033[0;33m127.0.0.1\033[0;31m] \033[0;37m|_|\033[0;31m [\033[1;34m192.168.1.1\033[0;31m] \033[0;37m\n";
-    print "    / /| |                            \033[0;31m[\033[0;37mCoded BY Mohamed Riahi\033[0;31m]\033[0;37m\n";
+    print "    / /| |                            \033[0;31m[\033[0;37mCoded BY godfrey mbuva\033[0;31m]\033[0;37m\n";
     print "   /_/ |_|      \n";
     print "  ( _\\ ( _\\    #:##       #:##\n";
     print "                     #:## \n\n";
