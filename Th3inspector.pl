@@ -125,6 +125,21 @@ sub banner {
     print "   /_/ |_|      \n";
     print "  ( _\\ ( _\\    #:##       #:##\n";
     print "                     #:## \n\n";
+    print " (°      °)\n"
+    print color('bold red')"|      |\n"
+    print color('bold red')"|      |>\n"
+    print ". |      |===>.\n"
+    print "  /      \     °\n"
+    print "_/        \_    °\n"
+    print ".............     °\n"
+    print ".                   °\n"
+    print ".                    °\n"
+    print "    ````````````````` °`````````````|\n"
+    print "   |``                 °         ``|\n"
+    print "    |```     NO SYSTEM IS SAFE  ``|\n"
+    print "      ............................\n"
+    
+
 }
 
 ##### Menu #######
